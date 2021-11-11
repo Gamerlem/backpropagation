@@ -1,0 +1,30 @@
+C:\Users\asus\source\repos\Diagnose\Diagnose\bin\Debug\Diagnose.exe.config
+C:\Users\asus\source\repos\Diagnose\Diagnose\bin\Debug\Diagnose.exe
+C:\Users\asus\source\repos\Diagnose\Diagnose\bin\Debug\Diagnose.pdb
+C:\Users\asus\source\repos\Diagnose\Diagnose\obj\Debug\Diagnose.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Diagnose\Diagnose\obj\Debug\Diagnose.Form1.resources
+C:\Users\asus\source\repos\Diagnose\Diagnose\obj\Debug\Diagnose.Properties.Resources.resources
+C:\Users\asus\source\repos\Diagnose\Diagnose\obj\Debug\Diagnose.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Diagnose\Diagnose\obj\Debug\Diagnose.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Diagnose\Diagnose\obj\Debug\Diagnose.exe
+C:\Users\asus\source\repos\Diagnose\Diagnose\obj\Debug\Diagnose.pdb
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\bin\Debug\Diagnose.exe.config
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\bin\Debug\Diagnose.exe
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\bin\Debug\Diagnose.pdb
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\obj\Debug\Diagnose.csprojAssemblyReference.cache
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\obj\Debug\Diagnose.Form1.resources
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\obj\Debug\Diagnose.Properties.Resources.resources
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\obj\Debug\Diagnose.csproj.GenerateResource.cache
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\obj\Debug\Diagnose.csproj.CoreCompileInputs.cache
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\obj\Debug\Diagnose.exe
+C:\Users\Reyna Jean\Downloads\Diagnose\Diagnose\obj\Debug\Diagnose.pdb
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\bin\Debug\Diagnose.exe.config
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\bin\Debug\Diagnose.exe
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\bin\Debug\Diagnose.pdb
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\obj\Debug\Diagnose.csprojAssemblyReference.cache
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\obj\Debug\Diagnose.Form1.resources
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\obj\Debug\Diagnose.Properties.Resources.resources
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\obj\Debug\Diagnose.csproj.GenerateResource.cache
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\obj\Debug\Diagnose.csproj.CoreCompileInputs.cache
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\obj\Debug\Diagnose.exe
+D:\Documents\My Files\School\College Files\Third Year\2\Intillegent Systems 2\Backpropagation\COVaid\Diagnose\Diagnose\obj\Debug\Diagnose.pdb
